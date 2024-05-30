@@ -1,6 +1,6 @@
 @licasmilesc
 
-official > html + css. javascript. freelance > greek. arabic. > java. angular. node.
+official > html + css. javascript. freelance > fullstack. greek. arabic. > java.
 
 artists. galleries. conceptstores. realestate. events. miscellaneous. @contact:
 
