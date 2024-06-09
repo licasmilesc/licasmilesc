@@ -1,6 +1,6 @@
 @licasmilesc
 
-official > webistaaaa. freestyle > misc artist 
+official > webistaaaa. freestyle > mix media artist 
 
 artists. galleries. conceptstores. realestate. events. miscellaneous. @contact:
 
