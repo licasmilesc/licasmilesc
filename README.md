@@ -2,7 +2,6 @@
 
 > CSS + webdesign 
 
-> portpolio currently under reconstruction 
 contact by sms@endlesc.com
 
 ￼
