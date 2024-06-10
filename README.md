@@ -1,4 +1,4 @@
- > mix media artista
+> mix media artista
 
 > CSS 
 
