@@ -1,5 +1,3 @@
-> mix media artista
-
 > CSS webdeveloperrrrrrr
 
 > sms@endlesc.com
