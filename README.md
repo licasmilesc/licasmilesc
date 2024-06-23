@@ -1,4 +1,4 @@
-> scriptr » student > CSS
+> scriptr » student > css
 
 > sms@endlesc.com
 
