@@ -1,4 +1,4 @@
-> babyscriptr » student > css
+> babyscriptr » student > scss
 
 > sms@endlesc.com
 
