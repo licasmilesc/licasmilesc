@@ -1,7 +1,5 @@
 > babyscriptr » student > scss
 
-> sms@endlesc.com
-
 ￼
 <img src="https://user-images.githubusercontent.com/119945254/206821958-a405d739-df0b-4d18-8db0-1c4ba34e7cd7.png" alt="" width="700" height="auto">
 
